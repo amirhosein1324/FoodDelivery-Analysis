@@ -1,4 +1,4 @@
-# Food Delivery Performance Analysis
+# Food Delivery Performance Analysis 
 
 ## Overview
 
@@ -9,6 +9,7 @@ This project analyzes food delivery operations to identify the main factors asso
 Food delivery operations need to understand where and when delivery delays occur in order to improve delivery efficiency and customer experience. This project analyzes historical delivery data to identify geographic hotspots, peak-hour bottlenecks, and vehicle-related performance differences that can support operational decision-making.
 
 ## Key Insights
+
 
 - **Delivery delays are substantial:** after data cleaning and outlier removal, the dataset contains **42,619 orders**, with an average delivery time of **26.71 minutes** and a **30.70% delay rate** based on the project's 30-minute delay threshold.
 - **Location and traffic conditions are associated with delivery performance:** the dashboard shows substantial differences in delay rates across cities and traffic-density categories, highlighting specific operating conditions that may require additional attention.
